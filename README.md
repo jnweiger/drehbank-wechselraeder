@@ -1,4 +1,5 @@
-drehbank-wechselraeder
-======================
+Drehbank-Wechselräder
+=====================
 
-Fotos der Wechselrad tabellen unserer Drehbank BF20L
+Fotos der Wechselrad-Tabellen meiner Drehbank BF20L
+
